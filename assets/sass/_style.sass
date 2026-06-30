@@ -1,4 +1,9 @@
 .page__home
     .hero
         .hero-text
-            display: none
+            @include sr-only
+
+header#document-header
+    .nav-ecosystem
+        li:last-child
+            @include ecosystem-active-item
