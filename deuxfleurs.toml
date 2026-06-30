@@ -31,6 +31,10 @@ from = "/organisations/a-dos-dane/index.html"
 to = "/editeurs/a-dos-dane/"
 
 [[redirects]]
+from = "/personnes/equipe-editoriale/index.html"
+to = "/poetes/equipe-editoriale/"
+
+[[redirects]]
 from = "/organisations/categories/editeur/index.html"
 to = "/editeurs/categories/editeur/"
 
