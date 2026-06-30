@@ -1,24 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Parutions
-  slug: parutions
-  target: "/parutions/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/posts"
-  file: content/fr/posts/_index.html
-- title: Poèmes
-  slug: poemes
-  target: "/poemes/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/projects"
-  file: content/fr/projects/_index.html
 - title: Poètes
   slug: poetes
   target: "/poetes/"
@@ -28,6 +10,15 @@ items:
   descendants_targets: []
   path: "/persons"
   file: content/fr/persons/_index.html
+- title: Parutions
+  slug: parutions
+  target: "/parutions/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/posts"
+  file: content/fr/posts/_index.html
 - title: Éditeurs
   slug: editeurs
   target: "/editeurs/"
@@ -37,13 +28,13 @@ items:
   descendants_targets: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
-- title: Page de connexion
-  slug: page-de-connexion
-  target: "/page-de-connexion/"
+- title: Poèmes
+  slug: poemes
+  target: "/poemes/"
   kind: page
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/pages/page-de-connexion"
-  file: content/fr/pages/page-de-connexion/_index.html
+  path: "/projects"
+  file: content/fr/projects/_index.html
 
