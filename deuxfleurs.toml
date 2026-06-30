@@ -14,3 +14,27 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
 
+[[redirects]]
+from = "/projets/index.html"
+to = "/poemes/"
+
+[[redirects]]
+from = "/actualites/index.html"
+to = "/parutions/"
+
+[[redirects]]
+from = "/organisations/index.html"
+to = "/editeurs/"
+
+[[redirects]]
+from = "/organisations/a-dos-dane/index.html"
+to = "/editeurs/a-dos-dane/"
+
+[[redirects]]
+from = "/organisations/categories/editeur/index.html"
+to = "/editeurs/categories/editeur/"
+
+[[redirects]]
+from = "/personnes/index.html"
+to = "/poetes/"
+
