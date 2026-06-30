@@ -1,2 +1,5 @@
 theme: printempsdespoetes-theme
 _merge: deep
+params:
+  logo:
+    header: '/assets/images/logo_poetheque.svg'
